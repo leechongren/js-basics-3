@@ -1,0 +1,21 @@
+{
+  "name": "js-basics-3",
+  "version": "1.0.0",
+  "description": "- Open the project in Visual Studio Code - Start the Live Server - Open the Console tab on Chrome's DevTools",
+  "main": "exercise-4.js",
+  "scripts": {
+    "test": "node exercise-4.js",
+    "testtwo": "node exercise-5.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leechongren/js-basics-3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leechongren/js-basics-3/issues"
+  },
+  "homepage": "https://github.com/leechongren/js-basics-3#readme"
+}
